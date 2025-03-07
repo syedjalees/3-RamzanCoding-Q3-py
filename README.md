@@ -14,7 +14,7 @@ Streamlit 🎨
 💡 How to Run:
 Clone this repository:
 
-git clone <repo-link>
+git clone <https://github.com/syedjalees/3-RamzanCoding-Q3-py.git>
 
 
 cd password-generator
@@ -28,7 +28,7 @@ Run the app:
 
 streamlit run app.py
 🎉 Live Demo:
-🔗 Try it here: [Streamlit App Link]
+🔗 Try it here: [ https://3-ramzancoding-q3-py.streamlit.app/ ]
 
 🏆 Special Thanks:
 A huge thanks to our mentors for their guidance and support:
@@ -38,4 +38,4 @@ A huge thanks to our mentors for their guidance and support:
 
 🤝 Connect with Me:
 👤 SAYYED JALEES - 03332682636
-🔗 GitHub: 
+🔗 GitHub: https://github.com/syedjalees
